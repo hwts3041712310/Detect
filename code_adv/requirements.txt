@@ -1,0 +1,4 @@
+dashscope==1.19.2  
+python-dotenv==1.0.1  
+oss2==2.18.5  
+openai ==1.33.0
